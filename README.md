@@ -44,4 +44,4 @@ A simple desktop application that checks how strong a password is and gives sugg
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/RiyaSandeepJadhav/password-strength-checker.git
