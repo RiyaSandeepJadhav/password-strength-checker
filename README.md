@@ -27,19 +27,6 @@ A simple desktop application that checks how strong a password is and gives sugg
 
 ---
 
-## 📸 Screenshots
-
-### Weak Password
-(Add screenshot here)
-
-### Medium Password
-(Add screenshot here)
-
-### Strong Password
-(Add screenshot here)
-
----
-
 ## ▶️ How to Run
 
 ### Step 1: Clone the repository
